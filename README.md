@@ -1,2 +1,3 @@
-# portfolio-website
-Personal website with some school projects I made.
+# Portfolio Website
+My personal website with some school projects I made.
+
