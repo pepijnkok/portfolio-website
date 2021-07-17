@@ -327,14 +327,28 @@ footer {
     color: #1c1c1c;
 }
 
+ul{
+    list-style: none;
+    padding: none;
+    padding-inline-start: 0;
+}
+
 
 
 
 /*Social Media in footer*/
 .social-menu img{
-    width: 60%;
+    width: 100%;
     height: auto;
 }
+
+@media screen and (max-width:45.2em) {
+    .social-menu img{
+        width: 60%;
+        height: auto;
+    }
+}
+
 
 
 .social-menu ul {
